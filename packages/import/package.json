@@ -1,0 +1,17 @@
+{
+  "name": "@phrog/eslint-config-import",
+  "version": "0.0.1",
+  "description": "Import ESLint config for Phrog",
+  "license": "MIT",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": ">=7.2.0"
+  },
+  "dependencies": {
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.35.0"
+  }
+}
